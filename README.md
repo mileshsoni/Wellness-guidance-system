@@ -1,6 +1,6 @@
-🩺 Symptom to Solution: Your AI-Powered Health & Wellness Companion
-Symptom to Solution is an intelligent and intuitive web application that empowers users to better understand and manage their health. By simply selecting one or more symptoms from a predefined list, users can instantly receive a comprehensive set of health recommendations — ranging from symptom descriptions to preventive measures, suggested medications, dietary tips, and lifestyle or workout adjustments.
+🩺 ### **Wellness Guidance System** : Your AI-Powered Health & Wellness Companion
+**Wellness Guidance System** is an intelligent and user-friendly web application designed to assist users in managing their health and well-being. By selecting one or more symptoms from a curated list, users can instantly receive personalized health insights — including symptom descriptions, recommended precautions, over-the-counter medications, diet suggestions, and lifestyle or workout tips.
 
-Designed with accessibility and simplicity in mind, the app makes health information easy to access for everyone, without the need for complex medical jargon or appointments. Whether you’re feeling under the weather or just looking to improve your wellness, Symptom to Solution provides quick and reliable guidance, all in one place.
+Built with simplicity and accessibility at its core, the app transforms health awareness into a seamless and interactive experience. Whether you're monitoring a minor concern or seeking everyday wellness advice, Wellness Guidance System helps you take informed steps toward a healthier life.
 
-⚠️ Disclaimer: This tool is for educational and informational purposes only. It does not provide medical diagnoses and should not replace professional medical advice.
+⚠️ Disclaimer: This tool is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
